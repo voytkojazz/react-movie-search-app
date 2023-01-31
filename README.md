@@ -10,10 +10,10 @@ The React UI to couple with the already existing Todo backend.
 
 We will be using the template for [React](https://reactjs.org/).
 ```console
-npm create vite@latest web -- --template react
+npm create vite@latest todo-web -- --template react
 ```
 
-### 3. Install dependencies in the newly created directory `web`
+### 3. Install dependencies in the newly created directory `todo-web`
 ```console
 npm install
 ```
