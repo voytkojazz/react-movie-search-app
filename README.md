@@ -33,8 +33,12 @@ We are able to view todos stored on the backend.
 
 ### 2. Add todo
 
-We are able to add a todo to our todos on the frontend and simulteanously update the backend.
+We are able to add a todo to our list of todos.
 
 ### 3. Remove todo
 
-We are able to remove a todo from our todos on the frontend and simulteanously update the backend.
+We are able to remove a todo.
+
+### 4. Edit todo
+
+We are able to edit a todo.
